@@ -11,3 +11,5 @@ In linear searching, we start comparing at the first element and go till the las
 # Binary search
 Binary search requires a sorted array either in ascending or descending order. Then it begins at the center point of the array and compares the previous element to the required element. If the previous is smaller, it automatically moves forward. if it is larger then it goes in backward direction to search. That's how binary search works.
 *All the binary search questions are in the binary search directory*
+
+**binary search questions video 58:00**
