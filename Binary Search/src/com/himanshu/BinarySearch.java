@@ -16,7 +16,6 @@ public class BinarySearch {
         int end = arr.length - 1;
         while (start<=end) {
             // find middle element
-
             // start+end/2 might exceed integer value limit. so below code is more efficient
             int mid = start + (end-start)/2;
 
