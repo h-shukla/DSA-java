@@ -10,6 +10,6 @@ As the size of the input is growing, how my time is growing is called time compl
 In linear searching, we start comparing at the first element and go till the last element. If we found our element at the element in the whole array, it is worst time complexity. i.e. O(n) where n--> number of elements in the array. So we have iterated through every element. Linear search when plotted onto a graph, gives linear graph. Therefore, it is called linear search.
 # Binary search
 Binary search requires a sorted array either in ascending or descending order. Then it begins at the center point of the array and compares the previous element to the required element. If the previous is smaller, it automatically moves forward. if it is larger then it goes in backward direction to search. That's how binary search works.
-*All the binary search questions are in the binary search directory*
+*All the binary search questions are in the respective search directory*
 
-**binary search questions video 58:00**
+**Continue with 1:17:11**
