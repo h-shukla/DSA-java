@@ -1,7 +1,6 @@
 package com.himanshu;
 
 public class Ceiling {
-
     public static void main(String[] args) {
         int[] arr = {2,32,42,51,62,67};
         int target = 63;
